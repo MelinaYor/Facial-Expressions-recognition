@@ -12,6 +12,7 @@ To get this project running, follow these steps:
 2. Edit line 18 of the code to specify the directory of the model file. Make sure to use `\\` between every path component to avoid Unicode errors.
 3. Run the Streamlit app by typing `streamlit run Facial_Expressions_Recognition.py` in your terminal.
 4. Have fun!
+5. Ah, before I forget haha -> Python is a `Must` -> Download Python from here :-> https://www.python.org/downloads/
 
 ## Future Updates
 
